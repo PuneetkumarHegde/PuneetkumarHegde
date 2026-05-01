@@ -1,14 +1,14 @@
 # Hey, I'm Puneetkumar Hegde 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&width=500&lines=Java+Developer;Cybersecurity+Engineer;Spring+Boot+%7C+Backend+Dev;Never+trust%2C+always+verify." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&width=500&lines=B.E.+Cybersecurity+Student;Learning+Java+%26+Spring+Boot;Exploring+Secure+System+Design;Never+trust%2C+always+verify." />
 
 ---
 
-☕ Java Developer · 🔐 Cybersecurity Engineer · 🛠️ Backend Developer
+🎓 Cybersecurity Student · ☕ Java Enthusiast · 🔐 Security Explorer
 
 ---
 
-I'm a Cybersecurity student at **Sri Siddartha Institute of Technology**, India. I build secure backend systems using Java and Spring Boot, with a strong focus on Zero Trust Architecture and real-world problem solving.
+I'm a Cybersecurity student at **Sri Siddartha Institute of Technology**, India. I enjoy building secure backend systems using Java and Spring Boot, with a strong interest in Zero Trust Architecture and real-world problem solving.
 
 Currently learning **Spring Boot**, **System Design**, and **Network Security**.
 
