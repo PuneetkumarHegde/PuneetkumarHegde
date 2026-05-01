@@ -1,55 +1,45 @@
-# Hello there 👋
+# Hey, I'm Puneetkumar Hegde 👋
 
-# Puneetkumar
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&lines=Java+Developer;Cybersecurity+Enthusiast;Building+Secure+Systems;Spring+Boot+Developer" />
-</p>
-
-💻 Java Developer | Cybersecurity Enthusiast | Building Secure Systems
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&width=500&lines=Java+Developer;Cybersecurity+Engineer;Spring+Boot+%7C+Backend+Dev;Never+trust%2C+always+verify." />
 
 ---
 
-## 🔐 About Me
-
-* 🎓 BE Cybersecurity student at Sri Siddartha Institute of Technology
-* 💡 Strong interest in Backend Development and Cybersecurity
-* 🛠️ Built real-world projects like ZTNA System, Habit Tracker
-* 🔍 Focused on secure coding and real-world problem solving
-* 📚 Currently learning Spring Boot, System Design, and Security
+☕ Java Developer · 🔐 Cybersecurity Engineer · 🛠️ Backend Developer
 
 ---
 
-## 🛠️ Tech Stack
+I'm a Cybersecurity student at **Sri Siddartha Institute of Technology**, India. I build secure backend systems using Java and Spring Boot, with a strong focus on Zero Trust Architecture and real-world problem solving.
 
-**Languages**
-`Java` `C` `C++` `Python`
-
-**Web**
-`HTML` `CSS` `React.js` `Node.js`
-
-**Tools & Frameworks**
-`Spring Boot` `MySQL` `Git` `Docker` `Wireshark` `Nmap` `Burp Suite`
+Currently learning **Spring Boot**, **System Design**, and **Network Security**.
 
 ---
 
-## 🚀 Featured Projects
+## 🧰 Skills
 
-* 🔐 **ZTNA System**
-  Zero Trust Network Access system with rule-based authentication
-
-* 📊 **Habit Tracker**
-  Track daily habits with analytics and progress monitoring
-
-* 🏢 **Mall Management System**
-  Java-based system for managing shops, billing, and inventory
+- 💻 **Languages** — Java, Python, C, C++
+- ⚙️ **Backend** — Spring Boot, Node.js, REST APIs, JWT
+- 🌐 **Frontend** — React.js, HTML, CSS
+- 🗄️ **Database** — MySQL
+- 🐳 **DevOps** — Docker, Git, Linux
+- 🔍 **Security** — Wireshark, Burp Suite, Nmap
 
 ---
 
-## 🔗 Connect
+## 🚀 Projects
 
-* Email: [pkhegde671@gmail.com](mailto:pkhegde671@gmail.com)
-* LinkedIn: https://www.linkedin.com/in/pkgh
-* GitHub: https://github.com/PuneetkumarHegde
+**🔐 ZTNA System**
+Zero Trust Network Access system with rule-based authentication, session management, and audit logging. Built with Java, Spring Boot, Spring Security, and MySQL.
+
+**📊 Habit Tracker**
+Full-stack habit tracking application with daily streaks, progress analytics, and REST API backend. Built with Java, Spring Boot, React.js, and MySQL.
+
+**🏢 Mall Management System**
+Desktop application for managing retail shop allocation, billing, and inventory. Built with Java and MySQL.
 
 ---
+
+## 📬 Contact
+
+- 📧 Email — pkhegde671@gmail.com
+- 💼 LinkedIn — [linkedin.com/in/pkgh](https://www.linkedin.com/in/pkgh)
+- 🐙 GitHub — [github.com/PuneetkumarHegde](https://github.com/PuneetkumarHegde)
