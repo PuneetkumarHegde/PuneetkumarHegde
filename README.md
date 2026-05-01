@@ -1,6 +1,5 @@
 # Hey, I'm Puneetkumar Hegde 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&width=500&lines=B.E.+Cybersecurity+Student;Learning+Java+%26+Spring+Boot;Exploring+Secure+System+Design;Never+trust%2C+always+verify." />
 
 ---
 
