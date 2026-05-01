@@ -4,13 +4,21 @@
 
 ---
 
-🎓 Cybersecurity Student · ☕ Java Enthusiast · 🔐 Security Explorer
+🎓 Cybersecurity Student · ☕ Java · 🔐 Cybersecurity · 🌐 Networking
 
 ---
 
-I'm a Cybersecurity student at **Sri Siddartha Institute of Technology**, India. I enjoy building secure backend systems using Java and Spring Boot, with a strong interest in Zero Trust Architecture and real-world problem solving.
+## 🙋 Who Am I?
 
-Currently learning **Spring Boot**, **System Design**, and **Network Security**.
+- ☕ A **Java enthusiast** who loves writing clean, structured backend code
+- 🔐 A **Cybersecurity student** who believes every system deserves to be secure by default
+- 🌐 A **Networking curious mind** — fascinated by how packets travel and how attackers exploit them
+- 🛠️ Someone who doesn't just study security — I **build** things to understand it better
+- 🧠 Always thinking about the *why* behind vulnerabilities, not just the *what*
+- 📖 Currently grinding through **Spring Boot**, **System Design**, and **Network Protocols**
+- 🎯 Goal — land a role where I can write secure code and break things (ethically)
+
+📍 Sri Siddartha Institute of Technology, India — B.E. Cybersecurity
 
 ---
 
